@@ -4,12 +4,12 @@
    License: none (public domain)
 */
 :root {
-    background-color: #242424;
+    background-color: #000000;
     margin: 0;
     padding: 0;
   }
   
   #root {
-    background-color: #242424;
+    background-color: #000000;
     color: white;
   }
